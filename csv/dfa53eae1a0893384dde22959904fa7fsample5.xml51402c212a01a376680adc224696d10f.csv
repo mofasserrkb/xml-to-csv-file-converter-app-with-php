@@ -1,0 +1,30 @@
+,food,name,,,"Belgian Waffles"
+,food,price,,,$5.95
+,food,description,,,"
+   Two of our famous Belgian Waffles with plenty of real maple syrup
+   "
+,food,calories,,,650
+,food,name,,,"Strawberry Belgian Waffles"
+,food,price,,,$7.95
+,food,description,,,"
+    Light Belgian waffles covered with strawberries and whipped cream
+    "
+,food,calories,,,900
+,food,name,,,"Berry-Berry Belgian Waffles"
+,food,price,,,$8.95
+,food,description,,,"
+    Belgian waffles covered with assorted fresh berries and whipped cream
+    "
+,food,calories,,,900
+,food,name,,,"French Toast"
+,food,price,,,$4.50
+,food,description,,,"
+    Thick slices made from our homemade sourdough bread
+    "
+,food,calories,,,600
+,food,name,,,"Homestyle Breakfast"
+,food,price,,,$6.95
+,food,description,,,"
+    Two eggs, bacon or sausage, toast, and our ever-popular hash browns
+    "
+,food,calories,,,950
